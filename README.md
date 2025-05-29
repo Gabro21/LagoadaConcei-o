@@ -1,1 +1,1 @@
-Scrip file for spectral analyses in suport to the article Rosa et al, 2024. Impacts of extreme events in the Lagoa da Conceição region, submitted to Revista DELOS interdiciplinary Studies.
+Scripts used for the publication of the article "Impacts of extreme events in the Lagoa da Conceição region" and for the undergraduate thesis of the same name. These scripts include methods for generating linear regression plots, temporal analyses, and, finally, spectral analysis.
